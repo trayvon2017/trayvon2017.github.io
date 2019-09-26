@@ -58,7 +58,7 @@ __webpack_require__.r(__webpack_exports__);
 
 "use strict";
 __webpack_require__.r(__webpack_exports__);
-/* harmony default export */ __webpack_exports__["default"] = ("<ons-list>\n  <ons-list-item *ngFor=\"let like of likes; index as index\">\n    {{index + 1}},{{like.name}}\n    <a href=\"javascript:void(0);\" (click)=\"removeLike(like)\">取消</a>\n  </ons-list-item>\n</ons-list>\n");
+/* harmony default export */ __webpack_exports__["default"] = ("<ons-list>\n  <ons-list-item style=\"position: relative\" class=\"list-item-self\" *ngFor=\"let like of likes; index as index\">\n    {{index + 1}},{{like.name}}\n    <a style=\"position: absolute; right: 20px;\" href=\"javascript:void(0);\" (click)=\"removeLike(like)\">取消</a>\n  </ons-list-item>\n</ons-list>\n");
 
 /***/ }),
 
