@@ -6,12 +6,7 @@
   font-style: normal;
 }
 
-@font-face {
-  font-family: 'fzcuqian-m17sregular';
-  src: url('assets/fonts/file/fzcuqian-m17s_regular/FZCuQian-M17S Regular.ttf');
-  font-weight: normal;
-  font-style: normal;
-}
+
 
 @font-face {
   font-family: "zqkhyt-Regular";
@@ -20,6 +15,18 @@
     url("assets/fonts/file/zqkhyt-Regular/zqkhyt-Regular.ttf") format("truetype"),
     url("assets/fonts/file/zqkhyt-Regular/zqkhyt-Regular.eot") format("embedded-opentype"),
     url("assets/fonts/file/zqkhyt-Regular/zqkhyt-Regular.svg") format("svg");
+  font-weight: normal;
+  font-style: normal;
+}
+
+
+@font-face {
+  font-family: "FZCuQian-M17S";
+  src: url("assets/fonts/file/FZCuQian-M17S/FZCuQian-M17S.woff2") format("woff2"),
+    url("assets/fonts/file/FZCuQian-M17S/FZCuQian-M17S.woff") format("woff"),
+    url("assets/fonts/file/FZCuQian-M17S/FZCuQian-M17S.ttf") format("truetype"),
+    url("assets/fonts/file/FZCuQian-M17S/FZCuQian-M17S.eot") format("embedded-opentype"),
+    url("assets/fonts/file/FZCuQian-M17S/FZCuQian-M17S.svg") format("svg");
   font-weight: normal;
   font-style: normal;
 }
