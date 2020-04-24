@@ -1,0 +1,49 @@
+<?xml version="1.0" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd" >
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" version="1.1">
+<metadata>
+Created by FontForge 20170924 at Sun Nov  6 10:03:25 2016
+ By www-data
+ (c) 2016   
+</metadata>
+<defs>
+<font id="Regular" horiz-adv-x="550" >
+  <font-face 
+    font-family="Regular"
+    font-weight="500"
+    font-stretch="normal"
+    units-per-em="1000"
+    panose-1="2 0 6 3 0 0 0 0 0 0"
+    ascent="800"
+    descent="-200"
+    bbox="65 -92 486 646"
+    underline-thickness="50"
+    underline-position="-150"
+    unicode-range="U+0030-0039"
+  />
+<missing-glyph horiz-adv-x="275" 
+ />
+    <glyph glyph-name=".notdef" horiz-adv-x="275" 
+ />
+    <glyph glyph-name="zero" unicode="0" horiz-adv-x="551" 
+d="M141 643h268l74 -74v-588l-75 -73h-269l-73 73v589zM389 0v551h-230v-551h230z" />
+    <glyph glyph-name="one" unicode="1" horiz-adv-x="341" 
+d="M236 2h61v-93h-229v93h76v550h-76v92h95l73 -73v-569z" />
+    <glyph glyph-name="two" unicode="2" horiz-adv-x="545" 
+d="M66 643h342l73 -74v-268l-73 -75h-249v-224h322v-93h-342l-73 65v272l73 74h250v231h-323v92z" />
+    <glyph glyph-name="three" unicode="3" horiz-adv-x="551" 
+d="M481 570v-250l-46 -46l46 -46v-245l-73 -74h-343v92h324v227h-314v92h314v231h-324v92h343z" />
+    <glyph glyph-name="four" unicode="4" 
+d="M388 643h93v-734h-93v243h-249l-74 74v417h92v-398h231v398z" />
+    <glyph glyph-name="five" unicode="5" 
+d="M483 552h-324v-224h249l75 -73v-272l-75 -74h-342v93h323v233h-248l-75 72v265l75 74h342v-94z" />
+    <glyph glyph-name="six" unicode="6" 
+d="M484 552h-324v-187h250l74 -73v-309l-74 -74h-268l-74 74v589l74 74h342v-94zM392 272h-232v-270h232v270z" />
+    <glyph glyph-name="seven" unicode="7" 
+d="M87 552v94h296l75 -74v-662h-93v642h-278z" />
+    <glyph glyph-name="eight" unicode="8" 
+d="M144 644h269l73 -74v-232l-46 -46l46 -46v-263l-74 -74h-269l-73 74v263l46 46l-46 46v233zM394 1v245h-232v-245h232zM394 338v214h-232v-214h232z" />
+    <glyph glyph-name="nine" unicode="9" horiz-adv-x="551" 
+d="M417 643l67 -74v-277l-46 -46l46 -47v-216l-75 -74h-342v92h324v198h-249l-75 75v296l75 73h275zM391 292v259h-231v-259h231z" />
+  </font>
+</defs></svg>
